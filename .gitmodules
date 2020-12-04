@@ -1,0 +1,3 @@
+[submodule "esup-mod_rocketchat"]
+	path = esup-mod_rocketchat
+	url = git@github.com:EsupPortail/esup-mod_rocketchat.git
